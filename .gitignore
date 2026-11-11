@@ -1,0 +1,4 @@
+*.exe
+*.o
+*.zpj.bak
+.zinjal/
